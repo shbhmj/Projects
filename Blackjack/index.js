@@ -1,5 +1,5 @@
 let player = {
-    name: "Shubham",
+    name: "Money Left",
     chips: 1000,
     gambler: function(num){
         player.chips+=num
