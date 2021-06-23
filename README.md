@@ -1,5 +1,5 @@
 # Blackjack Game
-[Play Blackjack] (https://shbhmj.github.io/Projects/Blackjack/)
+[Play Blackjack](https://shbhmj.github.io/Projects/Blackjack/)
 # Simple Calculator
 [Do Simple Calculations] ()
 
