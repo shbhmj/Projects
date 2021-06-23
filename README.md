@@ -1,5 +1,6 @@
 # Blackjack Game
-Play Blackjack [https://shbhmj.github.io/Projects/Blackjack/]
+[Play Blackjack] (https://shbhmj.github.io/Projects/Blackjack/)
 # Simple Calculator
+[Do Simple Calculations] ()
 
 Made with HTML5, CSS3, JS ES6
